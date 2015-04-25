@@ -1,0 +1,47 @@
+﻿@if (Request.IsAuthenticated)
+{
+	<ul class="nav nav-pills">
+		<li class="dropdown">
+			<p>Hello</p>
+			<a class="dropdown-toggle" data-toggle="dropdown" href="#">@User.Identity.Name▼</a>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+				<li>@Html.ActionLink("My profile", "Profile", "User")</li>
+				@if (User.IsInRole("Admin"))
+	{
+					<li>@Html.ActionLink("Administration", "Index", "User")</li>
+	}
+			</ul>
+		</li>
+	</ul>
+	using (Html.BeginForm("LogOff", "Auth", FormMethod.Post, new { id = "logoutForm" }))
+	{
+	@Html.AntiForgeryToken()
+	<a href="javascript:document.getElementById('logoutForm').submit()">Exit</a>
+	}
+
+	<ul class="nav nav-pills">
+		<li class="dropdown">
+			<a class="dropdown-toggle" data-toggle="dropdown" href="#">Votings</a>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+				<li><a>All Votings</a></li>
+				<li><a>Most popular</a></li>
+			</ul>
+		</li>
+
+		<li class="dropdown">
+			<a class="dropdown-toggle" data-toggle="dropdown" href="#">My Activity</a>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+				<li>@Html.ActionLink("MyVotings", "UserVotings", "UserActivity")</li>
+				<li>@Html.ActionLink("MyVoices", "UserVoices", "UserActivity")</li>
+				<li>@Html.ActionLink("Add new voting", "AddVoting", "UserActivity")</li>
+				<li>@Html.ActionLink("Administration", "Index", "User")</li>
+			</ul>
+		</li>
+	</ul>
+}
+else
+{
+	<p>
+		Hello Guest! To take full advantage of the service, please @Html.ActionLink("register", "Register", "Auth") or @Html.ActionLink("log in", "Login", "Auth").
+	</p>
+}

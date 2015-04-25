@@ -1,0 +1,315 @@
+﻿input:focus:invalid, textarea:focus:invalid, select:focus:invalid {
+	color: #b94a48;
+	border-color: #ee5f5b;
+}
+
+	input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus {
+		border-color: #e9322d;
+		-webkit-box-shadow: 0 0 6px #f8b9b7;
+		-moz-box-shadow: 0 0 6px #f8b9b7;
+		box-shadow: 0 0 6px #f8b9b7;
+	}
+
+/*  Bootstrap Date Range Picker  */
+.daterangepicker {
+	position: absolute;
+	background: #1C1E22;
+	top: 100px;
+	left: 20px;
+	padding: 4px;
+	margin-top: 1px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+	.daterangepicker.dropdown-menu {
+		max-width: none;
+	}
+
+	.daterangepicker.opensleft .ranges, .daterangepicker.opensleft .calendar {
+		float: left;
+		margin: 4px;
+	}
+
+	.daterangepicker.opensright .ranges, .daterangepicker.opensright .calendar {
+		float: right;
+		margin: 4px;
+	}
+
+	.daterangepicker .ranges {
+		width: 160px;
+		text-align: left;
+	}
+
+		.daterangepicker .ranges .range_inputs > div {
+			float: left;
+		}
+
+			.daterangepicker .ranges .range_inputs > div:nth-child(2) {
+				padding-left: 11px;
+			}
+
+	.daterangepicker .calendar {
+		display: none;
+		max-width: 230px;
+	}
+
+		.daterangepicker .calendar th, .daterangepicker .calendar td {
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			white-space: nowrap;
+			text-align: center;
+		}
+
+	.daterangepicker .ranges label {
+		color: #333333;
+		font-size: 11px;
+		margin-bottom: 2px;
+		text-transform: uppercase;
+		-ms-text-shadow: 1px 1px 0 white;
+		text-shadow: 1px 1px 0 white;
+	}
+
+	.daterangepicker .ranges input {
+		font-size: 11px;
+	}
+
+	.daterangepicker .ranges ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.daterangepicker .ranges li {
+		font-size: 13px;
+		background: #f5f5f5;
+		border: 1px solid whitesmoke;
+		color: #08c;
+		padding: 3px 12px;
+		margin-bottom: 8px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		cursor: pointer;
+	}
+
+		.daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
+			background: #08c;
+			border: 1px solid #0088cc;
+			color: white;
+		}
+
+	.daterangepicker .calendar {
+		padding: 4px;
+		-ms-border-radius: 4px;
+		border-radius: 4px;
+		background: #0088cc;
+	}
+
+	.daterangepicker.opensleft:before {
+		position: absolute;
+		top: -7px;
+		right: 9px;
+		display: inline-block;
+		border-right: 7px solid transparent;
+		border-bottom: 7px solid #cccccc;
+		border-left: 7px solid transparent;
+		border-bottom-color: rgba(0, 0, 0, 0.2);
+		content: '';
+	}
+
+	.daterangepicker.opensleft:after {
+		position: absolute;
+		top: -6px;
+		right: 10px;
+		display: inline-block;
+		border-right: 6px solid transparent;
+		border-bottom: 6px solid white;
+		border-left: 6px solid transparent;
+		content: '';
+	}
+
+	.daterangepicker.opensright:before {
+		position: absolute;
+		top: -7px;
+		left: 9px;
+		display: inline-block;
+		border-right: 7px solid transparent;
+		border-bottom: 7px solid #cccccc;
+		border-left: 7px solid transparent;
+		border-bottom-color: rgba(0, 0, 0, 0.2);
+		content: '';
+	}
+
+	.daterangepicker.opensright:after {
+		position: absolute;
+		top: -6px;
+		left: 10px;
+		display: inline-block;
+		border-right: 6px solid transparent;
+		border-bottom: 6px solid white;
+		border-left: 6px solid transparent;
+		content: '';
+	}
+
+	.daterangepicker table {
+		width: 100%;
+		margin: 0;
+	}
+
+	.daterangepicker td, .daterangepicker th {
+		text-align: center;
+		width: 20px;
+		height: 20px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+		cursor: pointer;
+		white-space: nowrap;
+	}
+
+		.daterangepicker td.off, .daterangepicker td.disabled {
+			color: #919191;
+		}
+
+		.daterangepicker td.available:hover {
+			background: #1E1E1E;
+		}
+
+		.daterangepicker th.available:hover {
+			background: #1E1E1E;
+		}
+
+		.daterangepicker td.in-range {
+			background: #1E1E1E;
+			-webkit-border-radius: 0px;
+			-moz-border-radius: 0px;
+			border-radius: 0px;
+		}
+
+		.daterangepicker td.active {
+			color: white;
+			text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+			background-color: #1E1E1E;
+			/* Fallback Color */
+			background-image: -webkit-gradient(linear, left top, left bottom, from(#3693cf), to(#2877aa));
+			/* Saf4+, Chrome */
+			background-image: -webkit-linear-gradient(top, #3693cf, #2877aa);
+			/* Chrome 10+, Saf5.1+, iOS 5+ */
+			background-image: -moz-linear-gradient(top, #3693cf, #2877aa);
+			/* FF3.6 */
+			background-image: -ms-linear-gradient(top, #3693cf, #2877aa);
+			/* IE10 */
+			background-image: -o-linear-gradient(top, #3693cf, #2877aa);
+			/* Opera 11.10+ */
+			background-repeat: repeat-x;
+			border-color: #3693cf #3693cf #2877aa;
+			border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+		}
+
+			.daterangepicker td.active:hover {
+				color: white;
+				background-color: #2877aa;
+				*background-color: #2877aa;
+			}
+
+		.daterangepicker td.week {
+			font-size: 80%;
+			color: #cccccc;
+		}
+
+		.daterangepicker th.week {
+			font-size: 80%;
+			color: #cccccc;
+		}
+
+#countdown {
+}
+
+	#countdown span {
+		display: inline;
+	}
+
+.hasCountdown {
+	display: inline;
+}
+
+	.hasCountdown span {
+		display: inline;
+	}
+
+.icon-white {
+	background-image: url("../img/glyphicons-halflings-white.png");
+}
+
+.comment {
+	padding: 20px;
+	border: solid 3px grey;
+	border-radius: 4px;
+}
+
+.answer {
+}
+
+.state-container {
+	margin: 20px 0px;
+	border: 2px solid silver;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.comments-container {
+	margin-left: 5px;
+}
+
+.comments-container-textarea {
+	margin: 5px 5px 5px 18px;
+	resize: none;
+}
+
+.comments-container-input {
+	margin: 5px 5px 5px 18px;
+}
+
+.margin-top {
+	margin-top: 5px;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+#dateProgressContainer {
+	background: #272B30;
+	padding: 0px;
+}
+
+.field-validation-error {
+	color: #b94a48;
+}
+
+.field-validation-valid {
+	display: none;
+}
+
+.input-validation-error {
+	border: 1px solid #b94a48;
+	background-color: #ffeeee;
+}
+
+.validation-summary-errors {
+	font-weight: bold;
+	color: #b94a48;
+}
+
+.validation-summary-valid {
+	display: none;
+}
+
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}

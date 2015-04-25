@@ -1,0 +1,16 @@
+﻿@model VotingSystem.Entities.Poll
+
+@if (Model.IsBlocked)
+{
+	<span>
+		@Ajax.ActionLink("Unban", "Index", "PollManage", new {pollid = Model.Id}, new AjaxOptions {UpdateTargetId = "bunContainer" + Model.Id},
+			new {@class = "label label-success", id = "bunButton" + Model.Id})
+	</span>
+}
+else
+{
+	<span>
+		@Ajax.ActionLink("Ban", "Index", "PollManage", new {pollid = Model.Id}, new AjaxOptions {UpdateTargetId = "bunContainer" + Model.Id},
+		new {@class = "label label-danger", id = "bunButton" + Model.Id})
+	</span>
+}

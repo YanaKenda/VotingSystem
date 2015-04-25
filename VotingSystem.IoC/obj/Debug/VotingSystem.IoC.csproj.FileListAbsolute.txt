@@ -1,0 +1,87 @@
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll.config
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\WebActivator.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.IoC.csprojResolveAssemblyReference.cache
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll.config
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\WebActivator.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.IoC.csprojResolveAssemblyReference.cache
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll.config
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Support.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\WebActivator.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.BusinessLogic.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.DataAccess.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\VotingSystem.Entities.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\EntityFramework.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.IoC\obj\Debug\VotingSystem.Support.pdb

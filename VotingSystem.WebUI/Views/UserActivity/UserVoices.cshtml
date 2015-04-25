@@ -1,0 +1,7 @@
+﻿@{
+	ViewBag.Title = "User Voices";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>User Voices</h2>
+@Html.Action("GetUserVoices", new { index = 1 })

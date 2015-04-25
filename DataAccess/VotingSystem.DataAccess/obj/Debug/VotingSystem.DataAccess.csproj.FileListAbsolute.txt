@@ -1,0 +1,36 @@
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll.config
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.pdb
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.dll
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.dll
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.pdb
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.xml
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.csprojResolveAssemblyReference.cache
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.dll
+D:\work\iTechArt\team6\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll.config
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.csprojResolveAssemblyReference.cache
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll.config
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\VotingSystem.Entities.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\DataAccess\VotingSystem.DataAccess\obj\Debug\VotingSystem.DataAccess.pdb

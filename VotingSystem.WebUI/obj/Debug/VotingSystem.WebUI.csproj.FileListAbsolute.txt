@@ -1,0 +1,164 @@
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\DataAnnotationsExtensions.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\WebActivator.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.pdb
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.csprojResolveAssemblyReference.cache
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.dll
+D:\work\iTechArt\team6\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.dll.config
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\DataAnnotationsExtensions.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\WebActivator.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.csprojResolveAssemblyReference.cache
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.dll.config
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.WebUI.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\DataAnnotationsExtensions.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\WebActivator.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Entities.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.Support.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\CaptchaMvc.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\EntityFramework.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.Razor.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.DataAccess.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\bin\VotingSystem.BusinessLogic.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\VotingSystem.WebUI\obj\Debug\VotingSystem.WebUI.pdb

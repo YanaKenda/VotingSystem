@@ -1,0 +1,11 @@
+﻿@model VotingSystem.Entities.Poll
+
+@foreach (var item in Model.Answers)
+{
+	<div>@item.AnswerText Choosen: @item.Count</div>
+
+	<div class="progress progress-striped active">
+		<div class="progress-bar" style="width: @(item.Count * 100 / Model.Count)%"></div>
+	</div>
+}
+<div>Summary voted: @Model.Count</div>

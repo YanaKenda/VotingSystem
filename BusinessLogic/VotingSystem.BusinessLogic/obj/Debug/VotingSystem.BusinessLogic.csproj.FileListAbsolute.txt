@@ -1,0 +1,33 @@
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.dll
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.pdb
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.dll
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.pdb
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.dll
+D:\work\iTechArt\team6\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.csprojResolveAssemblyReference.cache
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.dll
+E:\4 term\LABS\1 NeedWork\КСИС+ВТех\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.DataAccess.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.Entities.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\bin\Debug\VotingSystem.BusinessLogic.Interfaces.pdb
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.dll
+C:\Users\Yana\Desktop\LABS\2 Ready\Курсовая работа\VotingSystem\BusinessLogic\VotingSystem.BusinessLogic\obj\Debug\VotingSystem.BusinessLogic.pdb

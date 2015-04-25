@@ -1,0 +1,83 @@
+﻿@using System.Globalization
+@model VotingSystem.Entities.Poll
+
+@{
+	ViewBag.Title = "Details";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-md-10 col-md-offset-1">
+	<div id="pollId" hidden="hidden">@Model.Id</div>
+	<h2 class="text-center row">@Model.Name</h2>
+	<p class="text-center row">@Model.Question</p>
+
+	<div id="target" class="state-container">
+		@Html.Action("PollViewState", new { pollId = Model.Id })
+	</div>
+
+	<div class="row">
+		<div class="col-md-4">Start date: @Model.StartDateTime.ToString(CultureInfo.InvariantCulture)</div>
+		<div id="dateProgressContainer" class="col-md-4 progress progress-striped active">
+			@{
+				var value = (int)(100 - ((100 * Model.EndDateTime.Subtract(DateTime.Now).TotalSeconds) / (Model.EndDateTime.Subtract(Model.StartDateTime).TotalSeconds)));
+			}
+			<div id="dateProgress" class="progress-bar" style="width: @value%"></div>
+		</div>
+		<div class="col-md-4">Finish time: @Model.EndDateTime.ToString(CultureInfo.InvariantCulture)</div>
+	</div>
+</div>
+
+<div class="container col-md-10 col-md-offset-1 margin-top">
+	@if (Request.IsAuthenticated)
+ {
+		<div class="clearfix">
+		</div>
+		<h4>Post your comment:</h4>
+		<div class="row">
+			<div class="row">
+				<div class="col-md-5">
+					<textarea class="form-control btn-sm comments-container-textarea" cols="30" rows="3" data-bind="value: newCommentText"></textarea>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 comments-container-input">
+					<button data-bind="click: addComment" class="btn btn-primary form-actions">Send comment</button>
+				</div>
+			</div>
+		</div>
+ }
+
+	<div class="clearfix"></div>
+
+	<div class="comments-container">
+		<div data-bind="foreach: comments">
+			<div class="panel panel-info ">
+				<div class="panel-heading">
+					@if (User.IsInRole("Admin") || User.IsInRole("Moderator"))
+					{
+						<div class="right">
+							<button type="button" style="color: red" class="close" aria-hidden="true" data-bind="click: deleteComment">&times;</button>
+						</div>
+					}
+					<span class="left" data-bind="text: UserName"></span>
+				</div>
+				<div class="panel-body">
+					<div class="row">
+					</div>
+
+					<div class="clearfix"></div>
+					<div>
+						<p data-bind="text: Text"></p>
+					</div>
+
+					<div data-bind="text: CommentTime"></div>
+
+				</div>
+			</div>
+		</div>
+		<div class="separator"></div>
+	</div>
+</div>
+<div class="clearfix"></div>
+<script src="@Url.Content("~/Scripts/jquery.countdown.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/VotingSystem/commentsViewModel.js")" type="text/javascript"></script>
+

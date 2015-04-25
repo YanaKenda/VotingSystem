@@ -1,0 +1,73 @@
+﻿@model VotingSystem.WebUI.Models.Auth.RegisterViewModel
+
+@{ ViewBag.Title = "Register"; Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+<h2>Registration</h2>
+
+@Html.ValidationSummary()
+<fieldset>
+	@using (Html.BeginForm("Register", "Auth", FormMethod.Post, new { @class = "bs-example form-horizontal" }))
+ {
+		<div class="form-group">
+			@Html.LabelFor(m => m.Email, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email", placeholder = "Email" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.Email)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(m => m.Name, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.Name, new { @class = "form-control", type = "text", placeholder = "Name" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.Name)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(m => m.Surname, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.Surname, new { @class = "form-control", type = "text", placeholder = "Surname" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.Surname)
+			</div>
+		</div>
+	 
+		<div class="form-group">
+			@Html.LabelFor(m => m.DateOfBirth, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.DateOfBirth, new { @class = "form-control", type = "date", placeholder = "Date Of Birth" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.DateOfBirth)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(m => m.Password, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.Password, new { @class = "form-control", placeholder = "Password", type = "Password" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.Password)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-lg-4 control-label" })
+			<div class="col-lg-4">
+				@Html.TextBoxFor(m => m.ConfirmPassword, new { @class = "form-control", type = "password", placeholder = "Confirm Password" })
+			</div>
+			<div class="col-lg-4">
+				@Html.ValidationMessageFor(m => m.ConfirmPassword)
+			</div>
+		</div>
+
+		<button type="submit" class="btn btn-primary col-lg-4 col-md-offset-4 col-md-1">Submit</button> 
+ }
+</fieldset>

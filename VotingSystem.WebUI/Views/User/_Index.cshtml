@@ -1,0 +1,72 @@
+﻿@using VotingSystem.WebUI.HtmlHelpers
+@using VotingSystem.WebUI.Models.User
+@model VotingSystem.WebUI.Models.User.IndexModel
+
+@Ajax.UserGrid(Model)
+
+
+@*<div class="well">
+    <table class="table">
+        <thead>
+            <th>#</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Email</th>
+            <th></th>
+        </thead>
+        <tbody>
+            @foreach (User currentUser in Model.Users)
+            {
+                <tr>
+                    <td>
+                        @currentUser.Id
+                    </td>
+                    <td>
+                        @currentUser.Name
+                    </td>
+                    <td>
+                        @currentUser.Surname
+                    </td>
+                     <td>
+                        @currentUser.Email
+                    </td>
+        
+                    <td>
+                        <a href="@Url.Action("Profile", "User", new {id=@currentUser.Id}, null)"
+                           title ="Profile">
+                            Profile
+                        </a>
+                    
+                       <a href="@Url.Action("Edit", "User", new {id=@currentUser.Id}, null)"
+                           title ="Edit">
+                            Edit
+                        </a>
+                   
+                        <a href="#"
+                           title ="Trash">
+                            Ban
+                        </a>
+                        
+                        @if (Roles.IsUserInRole(currentUser.Email, "Moderator"))
+                        {
+                            <a href="@Url.Action("RemoveModerator", "User", new {id = @currentUser.Id}, null)"
+                               title ="Remove modrator role">
+                                Unset
+                            </a>
+
+                        }
+                        else
+                        {
+                             <a href="@Url.Action("SetModerator", "User", new {id = @currentUser.Id}, null)"
+                               title ="Make user as moderator">
+                                Set as Moderator
+                            </a>
+                        }
+                       
+                    </td>
+                </tr>
+            }
+         </tbody>
+    </table>
+</div>
+*@

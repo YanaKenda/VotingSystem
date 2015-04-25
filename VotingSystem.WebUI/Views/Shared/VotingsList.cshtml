@@ -1,0 +1,6 @@
+﻿@using VotingSystem.WebUI.HtmlHelpers
+@model VotingSystem.WebUI.Models.VotingsListViewModel
+
+<h2>Votings</h2>
+
+@Ajax.PollGrid(Model, User.IsInRole("Admin")||User.IsInRole("Moderator"))

@@ -1,0 +1,22 @@
+﻿@model VotingSystem.Entities.Poll
+
+<span class="text-info">Summary vote: @Model.Count</span>
+
+@foreach (var answer in Model.Answers)
+        {
+            using (Ajax.BeginForm("PollViewState", "Poll", "Post", new AjaxOptions(){ UpdateTargetId = "target" }))
+            {
+                @Html.Hidden("pollId", Model.Id)
+                @Html.Hidden("answerId", answer.Id)
+                <div class="col-lg-10">
+                    <button type="submit" class="btn btn-default col-lg-12 col-md-offset-1 ">@answer.AnswerText</button>
+
+                </div>
+    <div style="clear: both"></div>
+
+            }
+        }
+@if(Model.IsOpenResult)
+{
+    @Ajax.ActionLink("Result", "PollViewState", "Poll", new {pollId = Model.Id, answerId = 0}, new AjaxOptions() {UpdateTargetId = "target"}, new { @class = "label label-info"})
+}

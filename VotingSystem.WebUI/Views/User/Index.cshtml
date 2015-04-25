@@ -1,0 +1,27 @@
+﻿@using VotingSystem.WebUI.HtmlHelpers
+@model VotingSystem.WebUI.Models.User.IndexModel
+
+
+@{
+	ViewBag.Title = "Users list";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Users</h2>
+
+<div>
+	@Html.ActionLink("Add new", "Register", "Auth")
+</div>
+<ul class="nav nav-pills">
+	<li class="dropdown">
+		<a class="dropdown-toggle" data-toggle="dropdown" href="#">@Model.ItemsPerPage Item Per Page</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+			<li>@Html.ActionLink("10", "Index", "User", new { id = 10 }, null)</li>
+			<li>@Html.ActionLink("20", "Index", "User", new { id = 20 }, null)</li>
+			<li>@Html.ActionLink("50", "Index", "User", new { id = 50 }, null)</li>
+		</ul>
+	</li>
+</ul>
+<div>
+	@Ajax.UserGrid(Model)
+</div>

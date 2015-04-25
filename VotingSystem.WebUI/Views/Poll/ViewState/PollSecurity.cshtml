@@ -1,0 +1,74 @@
+﻿@using CaptchaMvc.HtmlHelpers
+@model VotingSystem.WebUI.Models.Poll.PollSecurityViewModel
+@if (@TempData["LoginMessage"] != null)
+{
+	@TempData["LoginMessage"] @Html.ActionLink("log in", "Login", "Auth")
+}
+@TempData["Message"]
+@TempData["CaptchaError"]
+<div class="panel panel-warning ">
+	<div class="panel-heading">Poll Security</div>
+	<div class="panel-body">
+
+		@using (Ajax.BeginForm("PollSecurity", "Poll", "Post", new AjaxOptions { UpdateTargetId = "target" }, new { @class = "form-horizontal" }))
+  {   @Html.HiddenFor(model => model.IsPrivate)
+			@Html.HiddenFor(model => model.CurrentPollId)
+			@Html.HiddenFor(model => model.CurrentAnswerId)
+	  if (Model.IsPrivate)
+	  {
+			<div class="form-group">
+				@Html.LabelFor(m => m.KeyWord, new { @class = "col-lg-1 control-label col-md-offset-4" })
+				<div class="col-lg-4">
+					@Html.TextBoxFor(m => m.KeyWord, new { @class = "form-control", type = "text", placeholder = "Keyword" })
+				</div>
+				<div class="col-lg-3">
+					@Html.ValidationMessageFor(m => m.KeyWord)
+				</div>
+			</div>
+	  }
+
+	  if (!User.Identity.IsAuthenticated)
+	  {
+		  if (Model.IsValidEmail)
+		  {
+			@Html.HiddenFor(model => model.Email)
+			@Html.HiddenFor(model => model.IsValidEmail)
+			<div class="form-group margin-top">
+				@Html.LabelFor(m => m.EmailApproved, new { @class = "col-lg-2 control-label col-md-offset-3" })
+				<div class="col-lg-4">
+					@Html.TextBoxFor(m => m.EmailApproved, new { @class = "form-control", type = "text", placeholder = "Keyword From Email" })
+				</div>
+				<div class="col-lg-3">
+					@Html.ValidationMessageFor(m => m.EmailApproved)
+				</div>
+			</div>
+
+		  }
+		  else
+		  {
+			  <div class="form-group margin-top">
+				  @Html.LabelFor(m => m.Email, new { @class = "col-lg-1 control-label col-md-offset-4" })
+				  <div class="col-lg-4">
+					  @Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email", placeholder = "Emaill" })
+				  </div>
+				  <div class="col-lg-3">
+					  @Html.ValidationMessageFor(m => m.Email)
+				  </div>
+			  </div>
+	  
+			  <div class="form-group">
+				  <div class="col-md-offset-5">
+					  @Html.MathCaptcha("Refresh", "Input", "Is required field.", true)
+				  </div>
+				  
+			  </div>
+
+
+				  }
+				  }
+     
+				  <br />
+				  <button type="submit" class="btn btn-primary col-lg-2 col-md-offset-5 col-md-1 margin-top">Submit</button> 
+				  }
+			  </div>
+</div>
